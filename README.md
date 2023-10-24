@@ -18,5 +18,5 @@ However, if a violation of any of these terms is discovered, this right may be r
 The owner of Challenge Buddy is not liable for any users breaking these terms at any given time.
 
 Contact
-If you have any concerns, you can join the [support server].
+If you have any concerns, you can join the [support server](https://discord.gg/NeVUGREx9S).
 This page is accessible using the botinfo command through Challenge Buddy within a Discord server.
