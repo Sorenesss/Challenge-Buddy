@@ -7,4 +7,4 @@ Challenge Buddy does not store any data.
 
 ## Contact
 If you have any concerns, you can join the [support server](https://discord.gg/NeVUGREx9S).
-This page is accessible using the about command through Challenge Buddy within a Discord server.
+This page is accessible using the botinfo command through Challenge Buddy within a Discord server.
