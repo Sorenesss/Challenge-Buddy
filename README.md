@@ -1,5 +1,4 @@
-# Challenge-Buddy
-Terms and Conditions
+# Challenge Buddy Terms and Conditions
 Last updated: May 06, 2022
 
 Please read these terms and conditions carefully before using Our Service.
