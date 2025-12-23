@@ -48,6 +48,6 @@ These Terms may be updated at any time. Continued use of Challenge Buddy after c
 
 ## Contact
 
-If you have questions or concerns, you may join the official [support server](https://discord.gg/NeVUGREx9S)
+If you have questions or concerns, you may join the official [support server](https://discord.gg/NeVUGREx9S).
 
 These Terms can also be accessed via the `/botinfo` command within Discord.
