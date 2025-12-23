@@ -18,7 +18,6 @@ Challenge Buddy does not collect message content, usernames, email addresses, or
 Collected data is used solely for the following purposes:
 - Managing and verifying active subscriptions
 - Granting and maintaining subscription perks
-Data is not used for analytics, advertising, or tracking.
 
 
 ## Payments
